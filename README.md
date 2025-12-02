@@ -12,3 +12,7 @@ to help and boost how  potential empolyers and anyone ele who acceses it see me 
 here is my fist website i made, it was a school project and it was an.....experince as you can see it is vey basic html and css and notjhing to write home about.
 However i think its good to have it here to show how far i have come
 ( Warframe Website ([https://duckduckgo.com](https://jackgodwinagoh.github.io/Warframe/))
+
+#Travel 
+
+![The San Juan Mountains are beautiful](https://th.bing.com/th/id/R.6eac31bff898dd0966381b6ccee2a0c7?rik=R8eN3n7W6qJ5QQ&pid=ImgRaw&r=0)
