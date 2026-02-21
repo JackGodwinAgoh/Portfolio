@@ -4,11 +4,17 @@ other websites i have done in my own time or for school, work etc. Currentley i 
 my level 6 computer science certifficate , if possible i would like to find a job to do part time but collge is currently my main focus. 
 # Areas covered
 [By March](#by-march)
+
 [Friends](##friends)
+
 [Past HTML projects](#Past-HTML-Projects)
+
+
 [What am i working on ](#What-am-i-working-on)
+
 [Goals](#Goals )
-[Schol](##School)
+
+[Scho0l](##School)
 
 # By March 
 
