@@ -1,7 +1,15 @@
 # Portfolio
 My name is Jack Ifeanyi chuckwu Godwin-Agoh this repository reprasents the profesionl  part of life, that cover education, Job experience,  small projects such as
-other websites i have done in my own time or for school, work etc.
- 
+other websites i have done in my own time or for school, work etc. Currentley i am a 17 year old attending dundrum College Of  Further education where i am pusuing 
+my level 6 computer science certifficate , if possible i would like to find a job to do part time but collge is currently my main focus. 
+# Areas covered
+[By March](#by-march)
+[Friends](##friends)
+[Past HTML projects](#Past-HTML-Projects)
+[What am i working on ](#What-am-i-working-on)
+[Goals](#Goals )
+[Schol](##School)
+
 # By March 
 
 From this website i hope to achieve a plan that represents me and what i wish to do in the future, this webpage should be able to help and boost how potential empolyers and anyone else who accesses it sees me and to learn about who i am and how i conduct myself. 
@@ -15,6 +23,10 @@ Here is my first website i made, it was a school project and it was an.....exper
 However i think its good to have it here to show how far i have come
 [Warframe Website](https://jackgodwinagoh.github.io/Warframe/)
 
+# What am i working on
+
+Currentley i am trying to get a part time job and trying to learn new skills that will help my cv in future, im attempting to learn other coding langiages that are usefull in my current feild of work 
+i am also looking for work experince. The work experince is a bit on the back burner as i doubt anyine would be interested in me as of now as i am young and i havent even mad it to university but you never know with these things i could just get lucky. The most important thing im working towards is getting at least 5 destinctions so i can attemd university next academic year , as that is the minimum requiremnt from a plc level 6 course 
 
 # Goals 
 i want to become a computer scientist because i think it's cool to have the creative freedom to do whatever you want whenever you want, create any game and then only limit be your imagination. I could create any game, any website if i just sit down and commit myself to it. 
