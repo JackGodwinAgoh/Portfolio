@@ -14,7 +14,7 @@ my level 6 computer science certifficate , if possible i would like to find a jo
 
 [Goals](#Goals )
 
-[Scho0l](##School)
+[School](##School)
 
 # By March 
 
